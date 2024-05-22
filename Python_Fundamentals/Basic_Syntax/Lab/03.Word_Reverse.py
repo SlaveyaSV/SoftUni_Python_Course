@@ -1,6 +1,8 @@
 word = input()
 print(word[::-1])
 
+# Another solution:
+#
 # word = input()
 #
 # reversed_word = ""
