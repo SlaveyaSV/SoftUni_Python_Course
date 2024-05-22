@@ -5,7 +5,8 @@ for row in range(1, n+1):
 for row in range(n-1, 0, -1):
     print("*" * row)
 
-
+# Another solution:
+#
 # n = int(input())
 #
 # for row in range(1, n+1):
