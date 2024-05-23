@@ -1,6 +1,6 @@
 n = int(input())
 
-for num in range(n, n+1):
+for num in range(1, n+1):
     digits_sum = 0
 
     for digit in range(len(str(num))):
